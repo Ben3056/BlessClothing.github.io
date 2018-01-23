@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: Curly, "Brush Script MT", "Brush Script Std", "cursive";
+    font-family: Curly, "Brush Script MT", "Brush Script Std", "Lucida Calligraphy", "Lucida Handwriting", "Apple Chancery", cursive;
     font-style: normal;
     font-weight: 400;
     font-size: large;
@@ -28,7 +28,6 @@ body {
 
 .row .col-lg-12 p {
     font-size: x-large;
-}
-.panel-footer div button {
+}.panel-footer div button {
     font-size: x-large;
 }
